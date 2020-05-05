@@ -7,4 +7,3 @@ end
 
 
 
-say_hello("Kent Beck")
