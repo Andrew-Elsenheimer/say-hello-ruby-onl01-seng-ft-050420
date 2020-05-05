@@ -6,8 +6,8 @@
 #  puts "Hello #{name}!"
 #end
 
-def say_hello()
+def say_hello(name)
   puts "Hello Ruby Programmer!"
 end
 
-# say_hell(John)
+# say_hell(Kent Beck)
