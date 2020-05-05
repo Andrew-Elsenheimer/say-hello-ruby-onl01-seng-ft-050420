@@ -3,8 +3,5 @@
 
 
 def say_hello(name)
-  puts "Hello #{name}!"
+  puts "Hello #{John}!"
 end
-
-
-# say_hello("John")
